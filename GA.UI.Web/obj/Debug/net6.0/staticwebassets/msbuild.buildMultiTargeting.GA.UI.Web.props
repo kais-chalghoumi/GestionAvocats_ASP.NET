@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GA.UI.Web.props" />
+</Project>

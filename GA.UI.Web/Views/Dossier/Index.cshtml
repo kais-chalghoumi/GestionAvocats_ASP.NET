@@ -1,0 +1,51 @@
+﻿@model IEnumerable<GA.ApplicationCore.Domain.Dossier>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Liste des Dossiers</h1>
+
+<form asp-action="Index">
+    <label for="nom">Avocat</label>
+    <input type="text" name="nom"/>
+    <input type="submit" value="Search" />
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cols)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Frais)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cols)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Frais)
+            </td>
+            <td>
+               <a asp-action="Details" asp-controller="Avocat" asp-route-id="@item.Avocat.AvocatId">Avocat</a> |              
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

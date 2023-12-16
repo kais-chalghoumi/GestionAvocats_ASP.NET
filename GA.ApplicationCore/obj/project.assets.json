@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
       "projectName": "GA.ApplicationCore",
-      "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\chalg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chalg\\AppData\\Roaming\\NuGet\\NuGet.Config",

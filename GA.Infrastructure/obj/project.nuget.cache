@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "poIZqcGksUzWWVYhCwHwUr4mLlqqkTqAIWHRL10CJNzmgaAQZ96jvf2Eii5jNkLh4yTKUPTNvGnCYPkaHAr+Eg==",
+  "dgSpecHash": "ORDnxlXN9sY2iP/jgZwgMcNcIn2o4APGLR8VuI5VlbxlV8CT/srMH8OD4txCohAA3QVDuY+C25eJhtANa20keQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chalg\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\chalg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

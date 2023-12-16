@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dn8ChV9/Kqk2NXoxsv1ndmAxfYV7erWSbDkW7i8A9CO73xIB4OvJTh4W2reT5R+3AxI0fWHAApoYvcVRDFrv4w==",
+  "dgSpecHash": "l7lU8zqUEFby+mDq97P9q9//b9TFlqTh2wUI1cmUN1rJWeyEVDA/weysCItOtQKUaNl7+tONAvR86pDK/ayHQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

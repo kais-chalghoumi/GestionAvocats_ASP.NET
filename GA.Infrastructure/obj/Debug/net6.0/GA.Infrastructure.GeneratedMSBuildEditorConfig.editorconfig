@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GA.Infrastructure
-build_property.ProjectDir = C:\Users\chalg\OneDrive\Bureau\GestionAvocats\GestionAvocats\GA.Infrastructure\
+build_property.ProjectDir = C:\Users\chalg\OneDrive\Bureau\.NET\GestionAvocats_ASP.NET\GA.Infrastructure\

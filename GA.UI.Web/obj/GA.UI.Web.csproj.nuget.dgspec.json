@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.UI.Web\\GA.UI.Web.csproj": {}
+    "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.UI.Web\\GA.UI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
+    "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
         "projectName": "GA.ApplicationCore",
-        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\chalg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chalg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj": {
+    "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj",
         "projectName": "GA.Infrastructure",
-        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\chalg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chalg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj"
+              "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.UI.Web\\GA.UI.Web.csproj": {
+    "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.UI.Web\\GA.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.UI.Web\\GA.UI.Web.csproj",
+        "projectUniqueName": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.UI.Web\\GA.UI.Web.csproj",
         "projectName": "GA.UI.Web",
-        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.UI.Web\\GA.UI.Web.csproj",
+        "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.UI.Web\\GA.UI.Web.csproj",
         "packagesPath": "C:\\Users\\chalg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.UI.Web\\obj\\",
+        "outputPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.UI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chalg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,11 +160,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.ApplicationCore\\GA.ApplicationCore.csproj"
+              "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.ApplicationCore\\GA.ApplicationCore.csproj"
               },
-              "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\GestionAvocats\\GestionAvocats\\GA.Infrastructure\\GA.Infrastructure.csproj"
+              "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\GestionAvocats_ASP.NET\\GA.Infrastructure\\GA.Infrastructure.csproj"
               }
             }
           }
